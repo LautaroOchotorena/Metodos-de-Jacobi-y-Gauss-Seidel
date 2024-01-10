@@ -1,3 +1,4 @@
+# Métodos de Jacobi y Gauss-Seidel
 Este proyecto forma parte de un final de la carrera, el objetivo es crear **métodos** (ya conocidos)
 y **resolver sistemeas Ax=b**. Los métodos utilizados son el de **Gauss-Seidel** y el de **Jacobi**.
 
